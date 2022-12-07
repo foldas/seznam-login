@@ -2,6 +2,4 @@
 
 ### Documentation
 
-````html
-https://vyvojari.seznam.cz/oauth/doc
-````
+[https://vyvojari.seznam.cz/oauth/doc](https://vyvojari.seznam.cz/oauth/doc)

@@ -3,6 +3,7 @@
  * Get redirect URL.
  * @param string $client_id
  * @param string $client_secret
+ * @param string $redirect_url
  */
 require_once __DIR__.'/../lib/SznLogin.php';
 
